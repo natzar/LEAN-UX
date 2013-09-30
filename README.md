@@ -72,6 +72,34 @@ Features
 -------
 The product changes or improvements we believe will drive the outcomes we seek
 
+## The Seven Stages of Action as Design Aids
+* **Visibility** By looking the user can tell the state of the device and the alternatives for action
+* **Good conceptual model** Results in a consisten system image
+* Good mappings. It is easy to determine the relationships between actions and results
+* **Feedback** the user receives full and continuous feedback about the results of actions
+
+
+The specific actions bridge the gap between what we would like to have done (our goals and intentions) and all possible physical actions.
+There we have it, seven stages of action: one for goals, three for execution, and three for evaluation.
+* Forming the goal
+* Forming the intention
+* Specifying an action
+* Executing the action
+* Perceiving the state of the world
+* Interpreting the state of the world
+* Evaluating the Outcome
+
+### Using the Seven stages to ask Design Questions
+**How Easily Can One:**
+
+* Determine the function of the device/product?
+* Tell what Actions are possible?
+* Tell if system is in desired state?
+* Determine Mapping from intention to Physical movement?
+* Determine Mapping from System State to interpretation?
+* Perform the action?
+* Tell what state the system is in?
+
 
 
 What to include in a MVP or prototype
